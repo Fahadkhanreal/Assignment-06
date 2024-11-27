@@ -24,7 +24,7 @@ const Hero = () => {
         
         
         <div className="flex justify-center md:justify-end w-full md:w-[50%] mt-6 md:mt-0" > 
-            <Image   src={"/images.png"} alt="image" height={900} width={640}/>
+            <Image   src={"/pic.png"} alt="image" height={900} width={640}/>
             
             
             
